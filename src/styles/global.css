@@ -1,8 +1,8 @@
 :root {
   --background-body: #fff;
-  --text-main: #36393b;
-  --text-secondary: #6b6f72;
-  --primary-color: #548e9b;
+  --text-main: #1a1a1a;
+  --text-secondary: #1914E9;
+  --primary-color: #FAC217;
   --font-family-serif: Merriweather, serif;
   --font-family-sans: 'Fira Sans', sans-serif;
 }
@@ -11,7 +11,7 @@
   --background-body: #202122;
   --text-main: #fff;
   --text-secondary: #ccc;
-  --primary-color: #548e9b;
+  --primary-color: #1914E9;
 }
 
 *,
